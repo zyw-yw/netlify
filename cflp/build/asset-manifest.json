@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d09d0060.chunk.js",
+    "main.js.map": "/static/js/main.d09d0060.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7335ef97.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7335ef97.js.map",
+    "static/css/2.a5497ee8.chunk.css": "/static/css/2.a5497ee8.chunk.css",
+    "static/js/2.ec016622.chunk.js": "/static/js/2.ec016622.chunk.js",
+    "static/js/2.ec016622.chunk.js.map": "/static/js/2.ec016622.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a5497ee8.chunk.css.map": "/static/css/2.a5497ee8.chunk.css.map",
+    "static/js/2.ec016622.chunk.js.LICENSE.txt": "/static/js/2.ec016622.chunk.js.LICENSE.txt",
+    "static/media/WechatIMG418.67559d44.jpeg": "/static/media/WechatIMG418.67559d44.jpeg",
+    "static/media/hero.792d2d0b.jpeg": "/static/media/hero.792d2d0b.jpeg",
+    "static/media/hujiayi.0c0dce22.jpeg": "/static/media/hujiayi.0c0dce22.jpeg",
+    "static/media/xuyiruo.15ae516d.jpeg": "/static/media/xuyiruo.15ae516d.jpeg",
+    "static/media/zhangyouwu.ae7c873b.jpeg": "/static/media/zhangyouwu.ae7c873b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7335ef97.js",
+    "static/css/2.a5497ee8.chunk.css",
+    "static/js/2.ec016622.chunk.js",
+    "static/js/main.d09d0060.chunk.js"
+  ]
+}
